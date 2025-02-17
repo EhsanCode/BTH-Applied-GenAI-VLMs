@@ -1,0 +1,15 @@
+pyttsx3
+opencv-python
+matplotlib
+ultralytics
+pillow
+torch
+transformers
+vosk
+pyaudio
+whisper
+sounddevice
+numpy
+wave
+speechrecognition
+openai
